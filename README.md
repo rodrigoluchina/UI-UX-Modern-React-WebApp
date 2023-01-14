@@ -1,3 +1,17 @@
+##Introduction 
+
+Modern UI/UX WebSite Created with React using Hooks,Destructing concepts,Styled Components and with a functional gallery .It was transformed from a figma design.
+
+![Screenshot_10](https://user-images.githubusercontent.com/33298946/212484342-0d779864-ea3d-4b8e-84c2-3a855b9037f9.png)
+![2](https://user-images.githubusercontent.com/33298946/212484432-78a21c64-0368-4e8b-ac68-ba21239f17d1.png)
+![3](https://user-images.githubusercontent.com/33298946/212484421-32d4c10f-eb98-44d7-8cfc-801324225baf.png)
+![4](https://user-images.githubusercontent.com/33298946/212484424-7a4a4551-6dd9-4b29-b6e7-070216e4a4db.png)
+![5](https://user-images.githubusercontent.com/33298946/212484427-86558292-caa5-48d6-a4eb-9d9a8e3b9880.png)
+![6](https://user-images.githubusercontent.com/33298946/212484429-34e5adcc-1390-4b2a-97e8-5683b1037497.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
